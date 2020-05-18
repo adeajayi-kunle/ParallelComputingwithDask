@@ -1,0 +1,8 @@
+name: dasktuto
+dependencies:
+  - python=3.6
+  - xarray
+  - netcdf4
+  - dask
+  - numpy
+  - matplotlib
